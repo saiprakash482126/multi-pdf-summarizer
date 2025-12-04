@@ -1,0 +1,1332 @@
+==================================================
+DOCUMENT VALIDATION REPORT
+==================================================
+
+📊 Summary:
+- Total files processed: 1
+- Errors: 3
+- Warnings: 307
+- Infos: 17
+
+==================== ERRORS (3) ====================
+
+📄 File: C:\Users\HP 1\Documents\dyaz\documents\216344\216344\0001\m1\us\1-2-cover-letter-word-seq-0001-20210614.docx
+--------------------------------------------------
+
+1. Corrupt Style
+   Location: Style: Normal
+   Details: Normal style is corrupted
+
+2. Image Processing Error
+   Location: Image: media/image2.png
+   Details: Could not process image: No module named 'PIL'
+
+3. Image Processing Error
+   Location: Image: media/image1.jpeg
+   Details: Could not process image: No module named 'PIL'
+
+==================== WARNINGS (307) ====================
+
+📄 File: C:\Users\HP 1\Documents\dyaz\documents\216344\216344\0001\m1\us\1-2-cover-letter-word-seq-0001-20210614.docx
+--------------------------------------------------
+
+1. Missing Document Property
+   Location: Document Properties
+   Details: Missing required property: Document Subject
+
+2. Missing Document Property
+   Location: Document Properties
+   Details: Missing required property: Document Keywords
+
+3. Missing Document Property
+   Location: Document Properties
+   Details: Missing required property: Document Category
+
+4. Non-Standard Style
+   Location: Style: Header
+   Details: Non-standard style used
+
+5. Non-Standard Style
+   Location: Style: Footer
+   Details: Non-standard style used
+
+6. Non-Standard Style
+   Location: Style: NormalParagraphStyle
+   Details: Non-standard style used
+
+7. Non-Standard Style
+   Location: Style: Balloon Text
+   Details: Non-standard style used
+
+8. Non-Standard Style
+   Location: Style: Paragraph
+   Details: Non-standard style used
+
+9. Non-Standard Style
+   Location: Style: default
+   Details: Non-standard style used
+
+10. Non-Standard Style
+   Location: Style: annotation text
+   Details: Non-standard style used
+
+11. Non-Standard Style
+   Location: Style: Table Left
+   Details: Non-standard style used
+
+12. Non-Standard Style
+   Location: Style: annotation subject
+   Details: Non-standard style used
+
+13. Non-Standard Style
+   Location: Style: Revision
+   Details: Non-standard style used
+
+14. Non-Standard Style
+   Location: Style: List Bullet
+   Details: Non-standard style used
+
+15. Non-Standard Style
+   Location: Style: Table Center
+   Details: Non-standard style used
+
+16. Non-Standard Style
+   Location: Style: Table Fixed Width
+   Details: Non-standard style used
+
+17. Non-Standard Style
+   Location: Style: Table Footnote Symbol
+   Details: Non-standard style used
+
+18. Non-Standard Style
+   Location: Style: Table Footnote Letter
+   Details: Non-standard style used
+
+19. Non-Standard Style
+   Location: Style: Table End of Text Title
+   Details: Non-standard style used
+
+20. Non-Standard Style
+   Location: Style: Table Title Continued
+   Details: Non-standard style used
+
+21. Non-Standard Style
+   Location: Style: Figure End of Text Title
+   Details: Non-standard style used
+
+22. Non-Standard Style
+   Location: Style: List Number 2
+   Details: Non-standard style used
+
+23. Non-Standard Style
+   Location: Style: List Number 3
+   Details: Non-standard style used
+
+24. Non-Standard Style
+   Location: Style: List Letter 2
+   Details: Non-standard style used
+
+25. Non-Standard Style
+   Location: Style: List Letter 3
+   Details: Non-standard style used
+
+26. Non-Standard Style
+   Location: Style: Equation
+   Details: Non-standard style used
+
+27. Non-Standard Style
+   Location: Style: Equation Title
+   Details: Non-standard style used
+
+28. Non-Standard Style
+   Location: Style: Caption Continued
+   Details: Non-standard style used
+
+29. Non-Standard Style
+   Location: Style: Title
+   Details: Non-standard style used
+
+30. Non-Standard Style
+   Location: Style: Table Head
+   Details: Non-standard style used
+
+31. Non-Standard Style
+   Location: Style: TOC Title
+   Details: Non-standard style used
+
+32. Non-Standard Style
+   Location: Style: toc 1
+   Details: Non-standard style used
+
+33. Non-Standard Style
+   Location: Style: toc 2
+   Details: Non-standard style used
+
+34. Non-Standard Style
+   Location: Style: toc 3
+   Details: Non-standard style used
+
+35. Non-Standard Style
+   Location: Style: List End
+   Details: Non-standard style used
+
+36. Non-Standard Style
+   Location: Style: List Number
+   Details: Non-standard style used
+
+37. Non-Standard Style
+   Location: Style: List Bullet 2
+   Details: Non-standard style used
+
+38. Non-Standard Style
+   Location: Style: List Bullet 3
+   Details: Non-standard style used
+
+39. Non-Standard Style
+   Location: Style: toc 4
+   Details: Non-standard style used
+
+40. Non-Standard Style
+   Location: Style: table of figures
+   Details: Non-standard style used
+
+41. Non-Standard Style
+   Location: Style: Approval
+   Details: Non-standard style used
+
+42. Non-Standard Style
+   Location: Style: endnote text
+   Details: Non-standard style used
+
+43. Non-Standard Style
+   Location: Style: Figure
+   Details: Non-standard style used
+
+44. Non-Standard Style
+   Location: Style: Confidentiality
+   Details: Non-standard style used
+
+45. Non-Standard Style
+   Location: Style: References
+   Details: Non-standard style used
+
+46. Non-Standard Style
+   Location: Style: Table Footnote
+   Details: Non-standard style used
+
+47. Non-Standard Style
+   Location: Style: List Letter
+   Details: Non-standard style used
+
+48. Non-Standard Style
+   Location: Style: Caption
+   Details: Non-standard style used
+
+49. Non-Standard Style
+   Location: Style: Document Map
+   Details: Non-standard style used
+
+50. Non-Standard Style
+   Location: Style: footnote text
+   Details: Non-standard style used
+
+51. Non-Standard Style
+   Location: Style: List
+   Details: Non-standard style used
+
+52. Non-Standard Style
+   Location: Style: List 2
+   Details: Non-standard style used
+
+53. Non-Standard Style
+   Location: Style: List 3
+   Details: Non-standard style used
+
+54. Non-Standard Style
+   Location: Style: List 4
+   Details: Non-standard style used
+
+55. Non-Standard Style
+   Location: Style: List 5
+   Details: Non-standard style used
+
+56. Non-Standard Style
+   Location: Style: List Bullet 4
+   Details: Non-standard style used
+
+57. Non-Standard Style
+   Location: Style: List Bullet 5
+   Details: Non-standard style used
+
+58. Non-Standard Style
+   Location: Style: List Continue
+   Details: Non-standard style used
+
+59. Non-Standard Style
+   Location: Style: List Continue 2
+   Details: Non-standard style used
+
+60. Non-Standard Style
+   Location: Style: List Continue 3
+   Details: Non-standard style used
+
+61. Non-Standard Style
+   Location: Style: List Continue 4
+   Details: Non-standard style used
+
+62. Non-Standard Style
+   Location: Style: List Continue 5
+   Details: Non-standard style used
+
+63. Non-Standard Style
+   Location: Style: List Number 4
+   Details: Non-standard style used
+
+64. Non-Standard Style
+   Location: Style: List Number 5
+   Details: Non-standard style used
+
+65. Non-Standard Style
+   Location: Style: macro
+   Details: Non-standard style used
+
+66. Non-Standard Style
+   Location: Style: Note Heading
+   Details: Non-standard style used
+
+67. Non-Standard Style
+   Location: Style: toc 5
+   Details: Non-standard style used
+
+68. Non-Standard Style
+   Location: Style: toc 6
+   Details: Non-standard style used
+
+69. Non-Standard Style
+   Location: Style: toc 7
+   Details: Non-standard style used
+
+70. Non-Standard Style
+   Location: Style: toc 8
+   Details: Non-standard style used
+
+71. Non-Standard Style
+   Location: Style: toc 9
+   Details: Non-standard style used
+
+72. Non-Standard Style
+   Location: Style: Table Title
+   Details: Non-standard style used
+
+73. Non-Standard Style
+   Location: Style: Appendix
+   Details: Non-standard style used
+
+74. Non-Standard Style
+   Location: Style: Figure Title
+   Details: Non-standard style used
+
+75. Non-Standard Style
+   Location: Style: FooterLandscape
+   Details: Non-standard style used
+
+76. Non-Standard Style
+   Location: Style: HeaderLandscape
+   Details: Non-standard style used
+
+77. Non-Standard Style
+   Location: Style: TOC Section
+   Details: Non-standard style used
+
+78. Non-Standard Style
+   Location: Style: TOC Heading
+   Details: Non-standard style used
+
+79. Non-Standard Style
+   Location: Style: Inside Address Name
+   Details: Non-standard style used
+
+80. Non-Standard Style
+   Location: Style: Default
+   Details: Non-standard style used
+
+81. Direct Formatting
+   Location: Paragraph: 		...
+   Details: Direct formatting used instead of styles
+
+82. Direct Formatting
+   Location: Paragraph: Pre Assigned ANDA # 216344; ...
+   Details: Direct formatting used instead of styles
+
+83. Direct Formatting
+   Location: Paragraph: As per Section 506H(e)(2) of the FD&C Act, Amneal ...
+   Details: Direct formatting used instead of styles
+
+84. Direct Formatting
+   Location: Paragraph: The snapshot of current Orange Book (available at ...
+   Details: Direct formatting used instead of styles
+
+85. Direct Formatting
+   Location: Paragraph: Provided below is the information regarding Streng...
+   Details: Direct formatting used instead of styles
+
+86. Direct Formatting
+   Location: Paragraph: 1-1-2-form-356h-esigned...
+   Details: Direct formatting used instead of styles
+
+87. Manual Page Break
+   Location: Paragraph: Amneal’s Potassium Phosphates Injection, USP, phos...
+   Details: Manual page break detected. Use styles for page breaks instead.
+
+88. Manual Page Break
+   Location: Paragraph: “(A) the reference listed drug”; or ...
+   Details: Manual page break detected. Use styles for page breaks instead.
+
+89. Manual Page Break
+   Location: Paragraph: Amneal is sending this submission through the Elec...
+   Details: Manual page break detected. Use styles for page breaks instead.
+
+90. Manual Page Break
+   Location: Paragraph: 											  Sincerely,...
+   Details: Manual page break detected. Use styles for page breaks instead.
+
+91. Special Character: Tab character
+   Location: Paragraph: 		...
+   Details: Special character found: \t
+
+92. Special Character: Tab character
+   Location: Paragraph: Through Electronic Submissions Gateway (ESG) 			  ...
+   Details: Special character found: \t
+
+93. Special Character: Tab character
+   Location: Paragraph: Office of Generic Drugs (HFD-600) 					          ...
+   Details: Special character found: \t
+
+94. Special Character: Tab character
+   Location: Paragraph: 											  ...
+   Details: Special character found: \t
+
+95. Special Character: Tab character
+   Location: Paragraph: 											  Sincerely,...
+   Details: Special character found: \t
+
+96. Extra Whitespace
+   Location: Paragraph: 		...
+   Details: Leading or trailing whitespace found
+
+97. Extra Whitespace
+   Location: Paragraph: Pre Assigned ANDA # 216344; ...
+   Details: Leading or trailing whitespace found
+
+98. Extra Whitespace
+   Location: Paragraph:   ...
+   Details: Leading or trailing whitespace found
+
+99. Multiple Spaces
+   Location: Paragraph:   ...
+   Details: Multiple consecutive spaces found
+
+100. Extra Whitespace
+   Location: Paragraph: Through Electronic Submissions Gateway (ESG) 			  ...
+   Details: Leading or trailing whitespace found
+
+101. Multiple Spaces
+   Location: Paragraph: Through Electronic Submissions Gateway (ESG) 			  ...
+   Details: Multiple consecutive spaces found
+
+102. Extra Whitespace
+   Location: Paragraph: Office of Generic Drugs (HFD-600) 					          ...
+   Details: Leading or trailing whitespace found
+
+103. Multiple Spaces
+   Location: Paragraph: Office of Generic Drugs (HFD-600) 					          ...
+   Details: Multiple consecutive spaces found
+
+104. Extra Whitespace
+   Location: Paragraph: Central Document Room, 5901B ...
+   Details: Leading or trailing whitespace found
+
+105. Extra Whitespace
+   Location: Paragraph: Re:  Potassium Phosphates Injection, USP, phosphor...
+   Details: Leading or trailing whitespace found
+
+106. Multiple Spaces
+   Location: Paragraph: Re:  Potassium Phosphates Injection, USP, phosphor...
+   Details: Multiple consecutive spaces found
+
+107. Extra Whitespace
+   Location: Paragraph:        mEq/m. (5 mL, 15 mL and 50 mL)...
+   Details: Leading or trailing whitespace found
+
+108. Multiple Spaces
+   Location: Paragraph:        mEq/m. (5 mL, 15 mL and 50 mL)...
+   Details: Multiple consecutive spaces found
+
+109. Extra Whitespace
+   Location: Paragraph:        Pre assigned ANDA # 216344; Sequence # 0001...
+   Details: Leading or trailing whitespace found
+
+110. Multiple Spaces
+   Location: Paragraph:        Pre assigned ANDA # 216344; Sequence # 0001...
+   Details: Multiple consecutive spaces found
+
+111. Extra Whitespace
+   Location: Paragraph: As per Section 506H(e)(2) of the FD&C Act, Amneal ...
+   Details: Leading or trailing whitespace found
+
+112. Extra Whitespace
+   Location: Paragraph: Amneal hereby declares that Pre-assigned ANDA # 21...
+   Details: Leading or trailing whitespace found
+
+113. Multiple Spaces
+   Location: Paragraph: Amneal hereby declares that Pre-assigned ANDA # 21...
+   Details: Multiple consecutive spaces found
+
+114. Extra Whitespace
+   Location: Paragraph: A drug is eligible for designation as a competitiv...
+   Details: Leading or trailing whitespace found
+
+115. Multiple Spaces
+   Location: Paragraph: A drug is eligible for designation as a competitiv...
+   Details: Multiple consecutive spaces found
+
+116. Extra Whitespace
+   Location: Paragraph: “(A) the reference listed drug”; or ...
+   Details: Leading or trailing whitespace found
+
+117. Extra Whitespace
+   Location: Paragraph: Janie M. Gwinn ...
+   Details: Leading or trailing whitespace found
+
+118. Extra Whitespace
+   Location: Paragraph: 											  ...
+   Details: Leading or trailing whitespace found
+
+119. Multiple Spaces
+   Location: Paragraph: 											  ...
+   Details: Multiple consecutive spaces found
+
+120. Extra Whitespace
+   Location: Paragraph: 											  Sincerely,...
+   Details: Leading or trailing whitespace found
+
+121. Multiple Spaces
+   Location: Paragraph: 											  Sincerely,...
+   Details: Multiple consecutive spaces found
+
+122. Extra Whitespace
+   Location: Paragraph: Janie M. Gwinn ...
+   Details: Leading or trailing whitespace found
+
+123. Wide Table
+   Location: Table 1
+   Details: Table has 10 columns which may be too wide for standard page
+
+124. Wide Table
+   Location: Table 1
+   Details: Table has 10 columns which may be too wide for standard page
+
+125. Missing Page Numbers
+   Location: Document Footer
+   Details: Document does not appear to have page numbers. Consider adding them for better navigation.
+
+126. Image Not Inline
+   Location: Image: media/image2.png
+   Details: Image should be inline with text
+
+127. Image Not Inline
+   Location: Image: media/image1.jpeg
+   Details: Image should be inline with text
+
+128. Non-Black Text
+   Location: Text: ...
+   Details: Text color is None
+
+129. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is 7030A0
+
+130. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is 7030A0
+
+131. Non-Black Text
+   Location: Text: Pre ...
+   Details: Text color is 7030A0
+
+132. Non-Black Text
+   Location: Text: Assigned ...
+   Details: Text color is 7030A0
+
+133. Non-Black Text
+   Location: Text: ANDA #...
+   Details: Text color is 7030A0
+
+134. Non-Black Text
+   Location: Text:  ...
+   Details: Text color is 7030A0
+
+135. Non-Black Text
+   Location: Text: 216344...
+   Details: Text color is 7030A0
+
+136. Non-Black Text
+   Location: Text: ;...
+   Details: Text color is 7030A0
+
+137. Non-Black Text
+   Location: Text:  ...
+   Details: Text color is 7030A0
+
+138. Non-Black Text
+   Location: Text: Request for Competitive Generic...
+   Details: Text color is None
+
+139. Non-Black Text
+   Location: Text: Therap...
+   Details: Text color is None
+
+140. Non-Black Text
+   Location: Text: y...
+   Details: Text color is None
+
+141. Non-Black Text
+   Location: Text:  Designation...
+   Details: Text color is None
+
+142. Non-Black Text
+   Location: Text: Sequence# 0001...
+   Details: Text color is None
+
+143. Non-Black Text
+   Location: Text:   ...
+   Details: Text color is None
+
+144. Non-Black Text
+   Location: Text: June ...
+   Details: Text color is None
+
+145. Non-Black Text
+   Location: Text: 1...
+   Details: Text color is None
+
+146. Non-Black Text
+   Location: Text: 4...
+   Details: Text color is None
+
+147. Non-Black Text
+   Location: Text: , 2021...
+   Details: Text color is None
+
+148. Non-Black Text
+   Location: Text: Through Electronic Submissions Gateway...
+   Details: Text color is None
+
+149. Non-Black Text
+   Location: Text:  (ESG)...
+   Details: Text color is None
+
+150. Non-Black Text
+   Location: Text:  ...
+   Details: Text color is None
+
+151. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is None
+
+152. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is None
+
+153. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is None
+
+154. Non-Black Text
+   Location: Text:         ...
+   Details: Text color is None
+
+155. Non-Black Text
+   Location: Text:        ...
+   Details: Text color is None
+
+156. Non-Black Text
+   Location: Text:                                        ...
+   Details: Text color is None
+
+157. Non-Black Text
+   Location: Text: Office of Generic Drugs (HFD-600) ...
+   Details: Text color is None
+
+158. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is None
+
+159. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is None
+
+160. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is None
+
+161. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is None
+
+162. Non-Black Text
+   Location: Text: 	          ...
+   Details: Text color is None
+
+163. Non-Black Text
+   Location: Text: Center for Drug Evaluation and Research...
+   Details: Text color is None
+
+164. Non-Black Text
+   Location: Text: Food and Drug Administration...
+   Details: Text color is None
+
+165. Non-Black Text
+   Location: Text: Central Document Room, 5901B ...
+   Details: Text color is None
+
+166. Non-Black Text
+   Location: Text: Ammendale Road, Beltsville, MD 20705...
+   Details: Text color is None
+
+167. Non-Black Text
+   Location: Text: Re:...
+   Details: Text color is None
+
+168. Non-Black Text
+   Location: Text:  ...
+   Details: Text color is None
+
+169. Non-Black Text
+   Location: Text:  ...
+   Details: Text color is None
+
+170. Non-Black Text
+   Location: Text: Potassium Phosphates Injection, USP, phosphorus 3 ...
+   Details: Text color is None
+
+171. Non-Black Text
+   Location: Text:        ...
+   Details: Text color is None
+
+172. Non-Black Text
+   Location: Text: mEq/m. (5 mL, 15 mL and 50 mL)...
+   Details: Text color is None
+
+173. Non-Black Text
+   Location: Text:        ...
+   Details: Text color is None
+
+174. Non-Black Text
+   Location: Text: Pre assigned...
+   Details: Text color is None
+
+175. Non-Black Text
+   Location: Text:  ...
+   Details: Text color is None
+
+176. Non-Black Text
+   Location: Text: ANDA...
+   Details: Text color is None
+
+177. Non-Black Text
+   Location: Text:  # ...
+   Details: Text color is None
+
+178. Non-Black Text
+   Location: Text: 216344...
+   Details: Text color is None
+
+179. Non-Black Text
+   Location: Text: ; Sequence...
+   Details: Text color is None
+
+180. Non-Black Text
+   Location: Text:  # 0001...
+   Details: Text color is None
+
+181. Non-Black Text
+   Location: Text: Request for Competitive Generic Therapy Designatio...
+   Details: Text color is 7030A0
+
+182. Non-Black Text
+   Location: Text: As per Section 506H(e)(2) of the FD&C Act, Amneal ...
+   Details: Text color is None
+
+183. Non-Black Text
+   Location: Text: 216344...
+   Details: Text color is None
+
+184. Non-Black Text
+   Location: Text: ;...
+   Details: Text color is None
+
+185. Non-Black Text
+   Location: Text:  ...
+   Details: Text color is None
+
+186. Non-Black Text
+   Location: Text: Potassium Phosphates Injection, USP, phosphorus 3 ...
+   Details: Text color is None
+
+187. Non-Black Text
+   Location: Text: . This request is made prior to submission of the ...
+   Details: Text color is None
+
+188. Non-Black Text
+   Location: Text:  Please refer to ...
+   Details: Text color is None
+
+189. Non-Black Text
+   Location: Text: Appendix 1...
+   Details: Text color is None
+
+190. Non-Black Text
+   Location: Text:  for the Pre-Assigned ANDA Number confirmation fro...
+   Details: Text color is None
+
+191. Non-Black Text
+   Location: Text:  ...
+   Details: Text color is None
+
+192. Non-Black Text
+   Location: Text: Amneal’s ...
+   Details: Text color is None
+
+193. Non-Black Text
+   Location: Text: Potassium Phosphates Injection, USP, phosphorus 3 ...
+   Details: Text color is None
+
+194. Non-Black Text
+   Location: Text:  is based on the Reference Listed Drug (RLD) ...
+   Details: Text color is None
+
+195. Non-Black Text
+   Location: Text: Potassium Phosphates Injection, USP, phosphorus 3 ...
+   Details: Text color is None
+
+196. Non-Black Text
+   Location: Text: mL and 50 mL)...
+   Details: Text color is None
+
+197. Non-Black Text
+   Location: Text:  ...
+   Details: Text color is None
+
+198. Non-Black Text
+   Location: Text: (...
+   Details: Text color is None
+
+199. Non-Black Text
+   Location: Text: FRESENIUS KABI USA LLC...
+   Details: Text color is None
+
+200. Non-Black Text
+   Location: Text: ; NDA# ...
+   Details: Text color is None
+
+201. Non-Black Text
+   Location: Text: N212832...
+   Details: Text color is None
+
+202. Non-Black Text
+   Location: Text: ). Please refer to the following overview, as list...
+   Details: Text color is None
+
+203. Non-Black Text
+   Location: Text: nge Book (last assessed ...
+   Details: Text color is None
+
+204. Non-Black Text
+   Location: Text: on ...
+   Details: Text color is None
+
+205. Non-Black Text
+   Location: Text: June ...
+   Details: Text color is None
+
+206. Non-Black Text
+   Location: Text: 10...
+   Details: Text color is None
+
+207. Non-Black Text
+   Location: Text: , 2021):...
+   Details: Text color is None
+
+208. Non-Black Text
+   Location: Text: Amneal hereby declares that Pre-assigned ANDA # ...
+   Details: Text color is None
+
+209. Non-Black Text
+   Location: Text: 216344...
+   Details: Text color is None
+
+210. Non-Black Text
+   Location: Text: ;...
+   Details: Text color is None
+
+211. Non-Black Text
+   Location: Text:  ...
+   Details: Text color is None
+
+212. Non-Black Text
+   Location: Text: Potassium Phosphates Injection, USP, phosphorus 3 ...
+   Details: Text color is None
+
+213. Non-Black Text
+   Location: Text:  ...
+   Details: Text color is None
+
+214. Non-Black Text
+   Location: Text:  is eligible for designation as CGT based on Secti...
+   Details: Text color is None
+
+215. Non-Black Text
+   Location: Text: The snapshot of current Orange Book (available at ...
+   Details: Text color is None
+
+216. Non-Black Text
+   Location: Text: on 0...
+   Details: Text color is None
+
+217. Non-Black Text
+   Location: Text: 6/...
+   Details: Text color is None
+
+218. Non-Black Text
+   Location: Text: 10...
+   Details: Text color is None
+
+219. Non-Black Text
+   Location: Text: /2021)...
+   Details: Text color is None
+
+220. Non-Black Text
+   Location: Text:  is provided below for the Agency’s ready referenc...
+   Details: Text color is None
+
+221. Non-Black Text
+   Location: Text: Also, please see ...
+   Details: Text color is None
+
+222. Non-Black Text
+   Location: Text: Appendix 2 ...
+   Details: Text color is None
+
+223. Non-Black Text
+   Location: Text: for the Orange Book details....
+   Details: Text color is None
+
+224. Non-Black Text
+   Location: Text: ...
+   Details: Text color is None
+
+225. Non-Black Text
+   Location: Text: Based on the above, Amneal respectfully requests t...
+   Details: Text color is None
+
+226. Non-Black Text
+   Location: Text: 216344...
+   Details: Text color is None
+
+227. Non-Black Text
+   Location: Text: ; ...
+   Details: Text color is None
+
+228. Non-Black Text
+   Location: Text: Potassium Phosphates Injection, USP, phosphorus 3 ...
+   Details: Text color is None
+
+229. Non-Black Text
+   Location: Text: , as CGT....
+   Details: Text color is None
+
+230. Non-Black Text
+   Location: Text: Please note that the following documents are provi...
+   Details: Text color is None
+
+231. Non-Black Text
+   Location: Text: Cover Letter – Module 1.2...
+   Details: Text color is None
+
+232. Non-Black Text
+   Location: Text: Should you require any additional information rega...
+   Details: Text color is None
+
+233. Non-Black Text
+   Location: Text: Amneal ...
+   Details: Text color is None
+
+234. Non-Black Text
+   Location: Text: EU, Limited...
+   Details: Text color is None
+
+235. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is None
+
+236. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is None
+
+237. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is None
+
+238. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is None
+
+239. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is None
+
+240. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is None
+
+241. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is None
+
+242. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is None
+
+243. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is None
+
+244. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is None
+
+245. Non-Black Text
+   Location: Text: 	  ...
+   Details: Text color is None
+
+246. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is None
+
+247. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is None
+
+248. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is None
+
+249. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is None
+
+250. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is None
+
+251. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is None
+
+252. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is None
+
+253. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is None
+
+254. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is None
+
+255. Non-Black Text
+   Location: Text: 	...
+   Details: Text color is None
+
+256. Non-Black Text
+   Location: Text: 	  ...
+   Details: Text color is None
+
+257. Non-Black Text
+   Location: Text: Sincerely,...
+   Details: Text color is None
+
+258. Non-Black Text
+   Location: Text: Amneal EU, Limited...
+   Details: Text color is None
+
+259. Non-Black Text
+   Location: Text: U.S. Agent for ...
+   Details: Text color is None
+
+260. Non-Black Text
+   Location: Text: Amneal ...
+   Details: Text color is None
+
+261. Non-Black Text
+   Location: Text: EU, Limited...
+   Details: Text color is None
+
+262. Web Link in Text
+   Location: URL: https://www.accessdata.fda.gov/scripts/cder/ob/,
+   Details: Document contains web links in the text that should be properly hyperlinked.
+
+263. Empty Key Property
+   Location: Document Properties
+   Details: Document property 'subject' is empty
+
+264. Empty Key Property
+   Location: Document Properties
+   Details: Document property 'keywords' is empty
+
+265. Empty Key Property
+   Location: Document Properties
+   Details: Document property 'category' is empty
+
+266. Language Setting
+   Location: Document Properties
+   Details: Document language is set to ''. Ensure correct language settings for spell checking.
+
+267. Inconsistent Narrative Formatting
+   Location: Paragraph: Request for Competitive Generic...
+   Details: Narrative text uses style 'Header' instead of 'Normal'
+
+268. Inconsistent Narrative Formatting
+   Location: Paragraph: Therapy Designation...
+   Details: Narrative text uses style 'Header' instead of 'Normal'
+
+269. Inconsistent Narrative Formatting
+   Location: Paragraph: Sequence# 0001...
+   Details: Narrative text uses style 'Header' instead of 'Normal'
+
+270. Inconsistent Narrative Formatting
+   Location: Paragraph: ...
+   Details: Narrative text uses style 'Header' instead of 'Normal'
+
+271. Inconsistent Narrative Formatting
+   Location: Paragraph:   ...
+   Details: Narrative text uses style 'Paragraph' instead of 'Normal'
+
+272. Inconsistent Narrative Formatting
+   Location: Paragraph: June 14, 2021...
+   Details: Narrative text uses style 'Paragraph' instead of 'Normal'
+
+273. Inconsistent Narrative Formatting
+   Location: Paragraph: Through Electronic Submissions Gateway (ESG) 			  ...
+   Details: Narrative text uses style 'Paragraph' instead of 'Normal'
+
+274. Inconsistent Narrative Formatting
+   Location: Paragraph: ...
+   Details: Narrative text uses style 'Paragraph' instead of 'Normal'
+
+275. Inconsistent Narrative Formatting
+   Location: Paragraph: Re:  Potassium Phosphates Injection, USP, phosphor...
+   Details: Narrative text uses style 'Paragraph' instead of 'Normal'
+
+276. Inconsistent Narrative Formatting
+   Location: Paragraph:        mEq/m. (5 mL, 15 mL and 50 mL)...
+   Details: Narrative text uses style 'Paragraph' instead of 'Normal'
+
+277. Inconsistent Narrative Formatting
+   Location: Paragraph:        Pre assigned ANDA # 216344; Sequence # 0001...
+   Details: Narrative text uses style 'Paragraph' instead of 'Normal'
+
+278. Inconsistent Narrative Formatting
+   Location: Paragraph: Request for Competitive Generic Therapy Designatio...
+   Details: Narrative text uses style 'Paragraph' instead of 'Normal'
+
+279. Inconsistent Narrative Formatting
+   Location: Paragraph: ...
+   Details: Narrative text uses style 'Paragraph' instead of 'Normal'
+
+280. Inconsistent Narrative Formatting
+   Location: Paragraph: A drug is eligible for designation as a competitiv...
+   Details: Narrative text uses style 'List Bullet' instead of 'Normal'
+
+281. Inconsistent Narrative Formatting
+   Location: Paragraph: “(A) the reference listed drug”; or ...
+   Details: Narrative text uses style 'List Bullet' instead of 'Normal'
+
+282. Inconsistent Narrative Formatting
+   Location: Paragraph: “(B) a generic drug with the same reference listed...
+   Details: Narrative text uses style 'List Bullet' instead of 'Normal'
+
+283. Inconsistent Narrative Formatting
+   Location: Paragraph: Please note that the following documents are provi...
+   Details: Narrative text uses style 'Default' instead of 'Normal'
+
+284. Inconsistent Narrative Formatting
+   Location: Paragraph: Cover Letter – Module 1.2...
+   Details: Narrative text uses style 'Paragraph' instead of 'Normal'
+
+285. Inconsistent Narrative Formatting
+   Location: Paragraph: Janie M. Gwinn ...
+   Details: Narrative text uses style 'Paragraph' instead of 'Normal'
+
+286. Inconsistent Narrative Formatting
+   Location: Paragraph: U.S. Agent for Amneal EU, Limited...
+   Details: Narrative text uses style 'Paragraph' instead of 'Normal'
+
+287. Inconsistent Narrative Formatting
+   Location: Paragraph: Amneal Pharmaceuticals of New York, LLC...
+   Details: Narrative text uses style 'Paragraph' instead of 'Normal'
+
+288. Inconsistent Narrative Formatting
+   Location: Paragraph: 50 Horseblock Road...
+   Details: Narrative text uses style 'Paragraph' instead of 'Normal'
+
+289. Inconsistent Narrative Formatting
+   Location: Paragraph: Brookhaven, NY 11719, USA...
+   Details: Narrative text uses style 'Paragraph' instead of 'Normal'
+
+290. Inconsistent Narrative Formatting
+   Location: Paragraph: Telephone: 631-310-7392...
+   Details: Narrative text uses style 'Paragraph' instead of 'Normal'
+
+291. Inconsistent Narrative Formatting
+   Location: Paragraph: Fax: 646-351-0286...
+   Details: Narrative text uses style 'Paragraph' instead of 'Normal'
+
+292. Inconsistent Narrative Formatting
+   Location: Paragraph: Email: janie.gwinnra@amneal.com...
+   Details: Narrative text uses style 'Paragraph' instead of 'Normal'
+
+293. Inconsistent Narrative Formatting
+   Location: Paragraph: Amneal EU, Limited...
+   Details: Narrative text uses style 'Paragraph' instead of 'Normal'
+
+294. Inconsistent Narrative Formatting
+   Location: Paragraph: ...
+   Details: Narrative text uses style 'Paragraph' instead of 'Normal'
+
+295. Inconsistent Narrative Formatting
+   Location: Paragraph: ...
+   Details: Narrative text uses style 'Paragraph' instead of 'Normal'
+
+296. Inconsistent Narrative Formatting
+   Location: Paragraph: ...
+   Details: Narrative text uses style 'Paragraph' instead of 'Normal'
+
+297. Inconsistent Narrative Formatting
+   Location: Paragraph: ...
+   Details: Narrative text uses style 'Paragraph' instead of 'Normal'
+
+298. Inconsistent Narrative Formatting
+   Location: Paragraph: ...
+   Details: Narrative text uses style 'Paragraph' instead of 'Normal'
+
+299. Inconsistent Narrative Formatting
+   Location: Paragraph: Janie M. Gwinn ...
+   Details: Narrative text uses style 'Paragraph' instead of 'Normal'
+
+300. Inconsistent Narrative Formatting
+   Location: Paragraph: U.S. Agent for Amneal EU, Limited...
+   Details: Narrative text uses style 'Paragraph' instead of 'Normal'
+
+301. Modified Standard Style
+   Location: Style: Normal
+   Details: Font should be 'Calibri', not 'None'
+
+302. Modified Standard Style
+   Location: Style: Normal
+   Details: Font size should be 11pt, not 12.0pt
+
+303. Modified Standard Style
+   Location: Style: Heading 1
+   Details: Font should be 'Calibri Light', not 'Arial'
+
+304. Modified Standard Style
+   Location: Style: Heading 1
+   Details: Font size should be 16pt, not 14.0pt
+
+305. Modified Standard Style
+   Location: Style: Heading 2
+   Details: Font should be 'Calibri', not 'Arial'
+
+306. Modified Standard Style
+   Location: Style: Heading 2
+   Details: Font size should be 14pt, not 13.0pt
+
+307. Modified Standard Style
+   Location: Style: Heading 3
+   Details: Font should be 'Calibri', not 'Arial'
+
+==================== INFOS (17) ====================
+
+📄 File: C:\Users\HP 1\Documents\dyaz\documents\216344\216344\0001\m1\us\1-2-cover-letter-word-seq-0001-20210614.docx
+--------------------------------------------------
+
+1. Document Protection
+   Location: Document
+   Details: No document protection detected.
+
+2. Document Metadata
+   Location: Document Properties
+   Details: Metadata field 'author' found: Claire Jones
+
+3. Document Metadata
+   Location: Document Properties
+   Details: Metadata field 'last_modified_by' found: ECTD INALS3
+
+4. Document Metadata
+   Location: Document Properties
+   Details: Metadata field 'revision' found: 103
+
+5. Missing Table of Contents
+   Location: Document
+   Details: Consider adding a Table of Contents for better navigation.
+
+6. Table Style
+   Location: Table 1
+   Details: Table uses non-standard style: Normal Table
+
+7. Table Style
+   Location: Table 2
+   Details: Table uses non-standard style: Normal Table
+
+8. Internal Document Reference
+   Location: Text: As per Section 506H(e)(2) of the FD&C Act, Amneal ...
+   Details: Reference to internal document detected. Ensure it's properly linked.
+
+9. Internal Document Reference
+   Location: Text: Amneal’s Potassium Phosphates Injection, USP, phos...
+   Details: Reference to internal document detected. Ensure it's properly linked.
+
+10. Internal Document Reference
+   Location: Text: A drug is eligible for designation as a competitiv...
+   Details: Reference to internal document detected. Ensure it's properly linked.
+
+11. Page Layout
+   Location: Section 1 Left
+   Details: Left: 1.25 inches
+
+12. Page Layout
+   Location: Section 1 Right
+   Details: Right: 1.00 inches
+
+13. Page Layout
+   Location: Section 1 Top
+   Details: Top: 1.00 inches
+
+14. Page Layout
+   Location: Section 1 Bottom
+   Details: Bottom: 1.00 inches
+
+15. Page Layout
+   Location: Section 1 Header
+   Details: Header: 0.50 inches
+
+16. Page Layout
+   Location: Section 1 Footer
+   Details: Footer: 0.50 inches
+
+17. Page Layout
+   Location: Section 1 Page Size
+   Details: Page size: 8.50 x 11.00 inches (Portrait)
