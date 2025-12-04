@@ -1,5 +1,3 @@
-# Simple Text Summarizer
-
 
 # 📘 Multi-PDF Summarizer — End-to-End PDF Summarization System
 ### 🔥 AI-Powered PDF Summaries | Streamlit UI | FastAPI | Docker | Local LLM Support
